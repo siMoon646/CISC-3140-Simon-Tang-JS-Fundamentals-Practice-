@@ -92,7 +92,7 @@ console.log("The greatest number in the array", [10,12,25,89,2], "is:", max([10,
 
 // reverse string function:
 function reverseString(str){
-    return String(str).split("").reverse();
+    return String(str).split("").reverse().join("");
 }
 
 console.log(reverseString("octocat"));
