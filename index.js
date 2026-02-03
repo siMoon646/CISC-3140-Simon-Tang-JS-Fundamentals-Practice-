@@ -1,5 +1,5 @@
 // 1.
-console.log("Question 1: =========================="); 
+console.log("Question : =========================="); 
 const birthYear = 2005;
 let currentage = 20;
 
