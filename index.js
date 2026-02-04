@@ -99,3 +99,19 @@ console.log(reverseString("octocat"));
 
 // 6. 
 console.log("Question 6: ==========================");
+
+/* 
+Three differences between Node.js and Browser:
+1) JavaScript using the browser will run on the browser, while JavaScript using Node.js runs locally (on machine or server)
+2) The browser has window and document objects, Node.js has global and process objects.
+3) The browser limits file system access, Node.js provides full file system access.
+
+What is the window object?
+-> a special object that exists in every browser environment that provides all the properties of the global object in addition to some browser-
+exclusive APIs.
+
+What is the global object in Node.js?
+-> the root object of any JavaScript environment that provides access to global variables, functions, and environment-specific APIs.
+
+*/
+
